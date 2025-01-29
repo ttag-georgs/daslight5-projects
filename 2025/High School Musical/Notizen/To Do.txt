@@ -1,0 +1,7 @@
+-A1 S7, mh pos als Preset für Hintergrund beleuchten
+
+A1 S7:
+-zwei Verfolger
+
+A1 S8:
+12345 fertig machen
