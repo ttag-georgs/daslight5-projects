@@ -11,8 +11,6 @@ A1 S4:
 A1 S7:
 
 A1 S8:
--regel 1 2 3 4 5
-	-bisschen biest geflacker?
 
 A1 S9:
 -foc springen
