@@ -8,8 +8,12 @@ A1 S7:
 -theo meinte konstante farben (passt/mache ich)
 
 A1 S9:
+-theo meinte zweite trav ab anfang
+-bei 90% starten und dann zu 100% starten
+(
 -mov effect fertig machen
 -ab 2. nein nein col fx
 -ab 3. nein nein foc
 -wenn chealeader neue traverse mit wirbeln
 -wenn cheerleader kommen dann in der mitte mit mh-neu und mh-trav bew und mh-trav wirbeln in mitte
+)
