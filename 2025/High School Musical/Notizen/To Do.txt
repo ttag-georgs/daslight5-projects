@@ -1,22 +1,12 @@
 Allgemein:
 -A1 S7, mh pos als Preset für Hintergrund beleuchten
+-Jack Scott immer erst kurz nach Musik an
+-Jack Scott Theo Black
 -Spot anderes Stativ, von Theo?
--zweiten Spot wieder w
+-zweiten Spot wieder zusammenbauen
 
 A1 S7:
 -zwei Verfolger
-
-A1 S9:
--welches licht für nein, nein, nein?
--welches Licht für Cheerleader (VB)
--Sharpay: "Gebt doch endlich Ruhe"; schlagartig effect aus
-"ohhhhhhh" Effekt reinfaden ca. 1,5 min
--speed auf regler
-
-A2 S1:
--erst Cheerleader dann Jack Scott
--welches Licht bei Cheerleader?
--Jack Scott wann licht Einsatz? erst nach Musik?
 
 A2 S3:
 -welches Geflacker Cheerleader?
@@ -42,3 +32,11 @@ A2 S9:
 A2 S10:
 -zusätzlicher Effekt, beim Aufruf der Gruppen
 -Sharpay und Rayen, Wash fx zentrierter
+
+A2 S11:
+-bei baskeball washer ekelig
+	-danach dim an und wash aus
+-wenn über türen einlaufen beleuchtung mit mh?
+-neue mh und mh trav alt integrieren
+-mehr abwechslung in bew mov
+-bew mitte fixen
