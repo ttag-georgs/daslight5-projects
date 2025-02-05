@@ -24,10 +24,7 @@ A2 S8:
 -zwei Verfolger
 
 A2 S9:
--geflacker
-	-mit neuen als beam auf dem boden move fx
--generell dimmer dunkel und am ende sehr hell
--zusätzliche ad-ons beim geflacker, da relativ lang
+-pos und mh pos zusammenführen
 
 A2 S10:
 -zusätzlicher Effekt, beim Aufruf der Gruppen
