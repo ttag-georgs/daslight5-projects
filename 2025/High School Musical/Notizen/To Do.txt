@@ -24,7 +24,9 @@ A2 S8:
 -zwei Verfolger
 
 A2 S9:
--pos und mh pos zusammenführen
+-geflacker
+	-mit neuen als beam auf dem boden move fx
+-generell dimmer dunkel und am ende sehr hell
 
 A2 S10:
 -zusätzlicher Effekt, beim Aufruf der Gruppen
