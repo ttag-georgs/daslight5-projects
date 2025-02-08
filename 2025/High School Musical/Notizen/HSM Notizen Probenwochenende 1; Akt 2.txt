@@ -20,8 +20,6 @@ A2 S8:
 -zwei verfolger synchron
 
 A2 S9:
--geflacker
-	-mit neuen als beam auf dem boden move fx
 -generell dimmer dunkel und am ende sehr hell
 
 A2 S10:

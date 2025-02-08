@@ -8,6 +8,9 @@ Allgemein:
 A1 S7:
 -zwei Verfolger
 
+A1 S9:
+-zwei Verfolger (Jana, Lara)
+
 A2 S3:
 -welches Geflacker Cheerleader?
 
@@ -24,11 +27,10 @@ A2 S8:
 -zwei Verfolger
 
 A2 S9:
--geflacker
-	-mit neuen als beam auf dem boden move fx
--generell dimmer dunkel und am ende sehr hell
+
 
 A2 S10:
+-zwei Verfolger
 -zusätzlicher Effekt, beim Aufruf der Gruppen
 -Sharpay und Rayen, Wash fx zentrierter
 
